@@ -1,4 +1,3 @@
-# ux-case-studies
 
 
 Google Maps in India - https://elizlaraki.substack.com/p/google-maps-ux-the-india-conundrum
