@@ -6,5 +6,4 @@ Understanding consumers and community at Starbucks - https://medium.com/@crystal
 
 Apple Watch Consumer Intimacy - https://medium.com/brand-intimacy/apple-watch-ethnography-study-part-2-4c6a74147164
 
-
-
+Social network for Kirana Stores - https://newsletter.theindianotes.com/p/building-a-kirana-social-network
